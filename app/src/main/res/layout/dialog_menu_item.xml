@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/string_dialog_message"
+        android:textAlignment="center"
+        android:textColor="#FFF"
+        android:textSize="15sp"
+        android:textStyle="bold|italic"
+        android:padding="20sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/id_button_ok"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Visit MOMA"
+            android:layout_weight="1"
+            android:background="@color/colorC2Item3"
+        />
+        <Button
+            android:id="@+id/id_button_cancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Not Now"
+            android:layout_weight="1"
+            android:background="@color/colorC2Item1"
+        />
+    </LinearLayout>
+
+</LinearLayout>

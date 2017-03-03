@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MarlonUIModernArt</string>
+    <string name="string_rect1">Retangulo 1</string>
+    <string name="string_rect2">Retangulo 2</string>
+    <string name="string_rect3">Retangulo 3</string>
+    <string name="string_rect4">Retangulo 4</string>
+    <string name="string_rect5">Retangulo 5</string>
+    <string name="string_menu_item">Menu Information</string>
+    <string name="string_dialog_title">Visite o Moma</string>
+    <string name="string_dialog_message">
+        Inspired by works of artists such as \n
+        Piet Mondrian and Ben Nicholson. \n\n
+        Click Bellow to learn more!
+    </string>
+</resources>

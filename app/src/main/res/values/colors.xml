@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Cor da coluna 1 -->
+    <color name="colorC1Item1">#000000</color>
+    <color name="colorC1Item2">#ffffff</color>
+
+    <!-- Cor da coluna 2 -->
+    <color name="colorC2Item1">#aecafc</color>
+    <color name="colorC2Item2">#d2fdd8</color>
+    <color name="colorC2Item3">#97fd75</color>
+</resources>

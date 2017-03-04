@@ -5,11 +5,11 @@
     <color name="colorAccent">#FF4081</color>
 
     <!-- Cor da coluna 1 -->
-    <color name="colorC1Item1">#000000</color>
-    <color name="colorC1Item2">#ffffff</color>
+    <color name="colorC1Item1">#ffe100</color>
+    <color name="colorC1Item2">#c12727</color>
 
     <!-- Cor da coluna 2 -->
     <color name="colorC2Item1">#aecafc</color>
-    <color name="colorC2Item2">#d2fdd8</color>
-    <color name="colorC2Item3">#97fd75</color>
+    <color name="colorC2Item2">#ffffff</color>
+    <color name="colorC2Item3">#d2fdd8</color>
 </resources>

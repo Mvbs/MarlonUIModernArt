@@ -32,7 +32,7 @@
                 android:layout_height="0sp"
                 android:layout_weight="1"
                 android:background="@color/colorC1Item1"
-                android:textColor="#FFFFFF"
+                android:textColor="#000"
                 android:textStyle="bold"
                 android:textSize="15sp"
                 android:gravity="center_vertical|center_horizontal"/>

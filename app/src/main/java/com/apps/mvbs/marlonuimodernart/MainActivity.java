@@ -140,7 +140,7 @@ public class MainActivity extends AppCompatActivity {
         tv3.setBackgroundColor( colorTv3+(progress*4) );
         //tv3.setText( getResources().getString(R.string.string_rect3) + " \nCor: " + Integer.toHexString(colorTv3+(progress*4)) );
 
-        tv4.setBackgroundColor( colorTv4+progress );
+        //tv4.setBackgroundColor( colorTv4+progress );
         //tv4.setText( getResources().getString(R.string.string_rect4) + " \nCor: " + Integer.toHexString(colorTv4+(progress*progress)) );
 
         tv5.setBackgroundColor( colorTv5+(progress+25) );
